@@ -356,5 +356,5 @@ Thanks to all contributors and beta testers
 Special thanks to the open-source community
 
 
-Made with ❤️ by the Cloudfit Team
+Made with ❤️ by Jaret Hussamy
 ⬆ Back to top
